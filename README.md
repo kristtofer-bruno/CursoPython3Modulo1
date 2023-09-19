@@ -1,2 +1,3 @@
 # CursoPython3Modulo1
-Exercícios propostos do módulo 1 do curso de Python3,  do Curso em Vídeo.
+Exercícios propostos durante as aulas do módulo 1 do curso de Python3,  do Curso em Vídeo.
+(Cursando atualmente)
